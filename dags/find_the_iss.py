@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from typing import Any
 
 # Variáveis sensíveis devem ser configuradas como variáveis de ambiente ou conexões no Airflow
-GITHUB_TOKEN = "************************************"  # Substitua por uma conexão do Airflow
+GITHUB_TOKEN = "**************************************"  # Substitua por uma conexão do Airflow
 GITHUB_USER = "gmontinny"
 GITHUB_REPO = "gmontinny/airflow"
 YOUR_COMMIT_MESSAGE = "Where is the ISS right now?"
